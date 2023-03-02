@@ -1,0 +1,44 @@
+{
+    "sorular":[
+        {
+            "soru":"Aşağıdakilerden hangisi JavaScript ile açılır pencerede yazdırma fonksiyonudur?",
+            "secenekA":"alert()",
+            "secenekB":"document.write()",
+            "secenekC":"console.log()",
+            "secenekD":"document.querySelector()",
+            "cevap":"secenekA"
+        },
+        {
+            "soru":"Aşağıdakilerden hangisi JavaScript'in harici veri saklama yapılarından değildir?",
+            "secenekA":"JavaScrip Object",
+            "secenekB":"JSON",
+            "secenekC":"MySql",
+            "secenekD":"MongoDB",
+            "cevap":"secenekA"
+        },
+        {
+            "soru":" JavaScript'i kodlarını hangi iki etiket arasına yazarız ?",
+            "secenekA":"js",
+            "secenekB":"javascript",
+            "secenekC":"script",
+            "secenekD":"Jscript",
+            "cevap":"secenekC"
+        },
+        {
+            "soru":"Hangi tag JavaScript için doğrudur?",
+            "secenekA":"<?……?>",
+            "secenekB":"<JavaScript…...>…..</JavaScript>",
+            "secenekC":"<script Language=”JavaScript”>……</JavaScript>",
+            "secenekD":"<script type = “text/JavaScript”>……</script>",
+            "cevap":"secenekD"
+        },
+        {
+            "soru":"Hangisi JavaScipt yorum yazma ile ilgili doğrudur?",
+            "secenekA":"// çoklu satır içindir.",
+            "secenekB":"/* */ tek satır içindir.",
+            "secenekC":"// ve /* */ hem tek satır hem de çoklu satır içindir.",
+            "secenekD":"// tek satır içindir. /* */ çoklu satır içindir.",
+            "cevap":"secenekD"
+        }
+    ]
+}
